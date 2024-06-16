@@ -1,1 +1,1 @@
-This is a DeepFake Video Detection Project made using React for the frontend and Flask for the backend.
+We've created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM. Also integrated the trained model with the Frontend UI which uses ReactJs and Backend uses Flask.
